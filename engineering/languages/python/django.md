@@ -4,7 +4,7 @@ description: 'https://www.djangoproject.com/'
 
 # Django
 
-### Articles
+## Articles
 
 * [Django Anti-Patterns: Signals](https://lincolnloop.com/blog/django-anti-patterns-signals/)
 * [Bullet Proofing Django Models](https://hakibenita.com/bullet-proofing-django-models)
@@ -13,18 +13,18 @@ description: 'https://www.djangoproject.com/'
 * [TLDR: Generate Django Secret Key](https://humberto.io/blog/tldr-generate-django-secret-key)
 * [Improve Serialization Performance in Django Rest Framework](https://hakibenita.com/django-rest-framework-slow)
 
-### Talks
+## Talks
+
 * [Optimize Python & Django apps with Postgres superpowers](https://www.youtube.com/watch?v=dyBLGjCQJHs)
 
-
-### Helpful resources
+## Helpful resources
 
 * [Classy Class-Based Views](https://ccbv.co.uk/)
 * [Classy Django REST Framework](http://www.cdrf.co/)
 
-### Packages
+## Packages
 
-### Projects
+## Projects
 
 * [https://github.com/django/djangoproject.com](https://github.com/django/djangoproject.com)
 
