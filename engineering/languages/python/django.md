@@ -13,7 +13,12 @@ description: 'https://www.djangoproject.com/'
 * [TLDR: Generate Django Secret Key](https://humberto.io/blog/tldr-generate-django-secret-key)
 * [Improve Serialization Performance in Django Rest Framework](https://hakibenita.com/django-rest-framework-slow)
 
+### Talks
+* [Optimize Python & Django apps with Postgres superpowers](https://www.youtube.com/watch?v=dyBLGjCQJHs)
+
+
 ### Helpful resources
+
 * [Classy Class-Based Views](https://ccbv.co.uk/)
 * [Classy Django REST Framework](http://www.cdrf.co/)
 
