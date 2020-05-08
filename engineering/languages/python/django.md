@@ -21,6 +21,7 @@ description: 'https://www.djangoproject.com/'
 
 * [Classy Class-Based Views](https://ccbv.co.uk/)
 * [Classy Django REST Framework](http://www.cdrf.co/)
+* [Awesome Django](https://github.com/wsvincent/awesome-django)
 
 ## Packages
 
