@@ -12,6 +12,7 @@ description: 'https://www.djangoproject.com/'
 * [Django Best Practices: Function-Based Views vs Class-Based Views](https://learndjango.com/tutorials/django-best-practices-function-based-views-vs-clas)
 * [TLDR: Generate Django Secret Key](https://humberto.io/blog/tldr-generate-django-secret-key)
 * [Improve Serialization Performance in Django Rest Framework](https://hakibenita.com/django-rest-framework-slow)
+* [Avoid Django’s GenericForeignKey](https://lukeplant.me.uk/blog/posts/avoid-django-genericforeignkey/)
 * [Options for public facing IDs in Django](https://spikelantern.com/articles/options-for-public-facing-ids-in-django/)
 
 ## Talks
