@@ -4,4 +4,5 @@
 
 * [Python](python/)
 * [SQL](sql.md)
+* Go
 
