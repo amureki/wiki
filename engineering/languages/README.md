@@ -4,5 +4,7 @@
 
 * [Python](python/)
 * [SQL](sql.md)
-* Go
+* [Go](https://app.gitbook.com/@amureki/s/wiki/engineering/languages/go)
+
+
 

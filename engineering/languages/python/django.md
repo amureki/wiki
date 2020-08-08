@@ -19,6 +19,10 @@ description: 'https://www.djangoproject.com/'
 
 * [Optimize Python & Django apps with Postgres superpowers](https://www.youtube.com/watch?v=dyBLGjCQJHs)
 
+## People
+
+* [Adam Johnson](https://adamj.eu/)
+
 ## Helpful resources
 
 * [Classy Class-Based Views](https://ccbv.co.uk/)
