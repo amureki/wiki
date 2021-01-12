@@ -7,6 +7,7 @@ description: 'https://www.djangoproject.com/'
 ## Articles
 
 * [Django Anti-Patterns: Signals](https://lincolnloop.com/blog/django-anti-patterns-signals/)
+* [Django Anti-Patterns](https://www.django-antipatterns.com/)
 * [Bullet Proofing Django Models](https://hakibenita.com/bullet-proofing-django-models)
 * [Common Issues Using Celery \(And Other Task Queues\)](https://adamj.eu/tech/2020/02/03/common-celery-issues-on-django-projects/)
 * [Django Best Practices: Function-Based Views vs Class-Based Views](https://learndjango.com/tutorials/django-best-practices-function-based-views-vs-clas)
@@ -14,6 +15,8 @@ description: 'https://www.djangoproject.com/'
 * [Improve Serialization Performance in Django Rest Framework](https://hakibenita.com/django-rest-framework-slow)
 * [Avoid Django’s GenericForeignKey](https://lukeplant.me.uk/blog/posts/avoid-django-genericforeignkey/)
 * [Options for public facing IDs in Django](https://spikelantern.com/articles/options-for-public-facing-ids-in-django/)
+
+
 
 ## Talks
 
