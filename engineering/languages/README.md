@@ -2,6 +2,7 @@
 
 ## Contents
 
+* [Rust](rust.md)
 * [Python](python/)
 * [JavaScript](javascript.md)
 * [SQL](sql.md)
