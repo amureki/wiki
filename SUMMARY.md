@@ -8,6 +8,7 @@
 * [General](engineering/general.md)
 * [Databases](engineering/databases.md)
 * [Languages](engineering/languages/README.md)
+  * [Rust](engineering/languages/rust.md)
   * [Python](engineering/languages/python/README.md)
     * [Django](engineering/languages/python/django.md)
   * [JavaScript](engineering/languages/javascript.md)
