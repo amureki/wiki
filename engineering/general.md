@@ -13,3 +13,10 @@ description: Things that are not directly related to a certain programming langu
 
 * [36 - Vadim Makishvili](https://www.youtube.com/watch?v=nIFClfBXuIQ)
 
+## Awesome repos and curated lists
+
+* [How They SRE](https://github.com/upgundecha/howtheysre)
+* [Engineering Ladders](https://github.com/bmoeskau/engineering-ladders)
+* [Teamlead Roadmap](https://github.com/tlbootcamp/tlroadmap)
+* [Awesome CTO](https://github.com/kuchin/awesome-cto)
+
