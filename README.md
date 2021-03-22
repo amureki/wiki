@@ -7,7 +7,9 @@ Made in form of an [online GitBook](https://wiki.amureki.me) hosted on [GitHub](
 ## Contents
 
 * Engineering
+  * [Backlog](engineering/backlog.md)
   * [General](engineering/general.md)
+  * [Databases](engineering/databases.md)
   * [Languages](engineering/languages/)
   * [Web](engineering/web.md)
 * Countries
