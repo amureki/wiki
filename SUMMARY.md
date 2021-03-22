@@ -22,6 +22,7 @@
 
 ## Life
 
+* [Medicine](life/medicine.md)
 * [Relationship](life/relationship.md)
 
 ## Blockchain
