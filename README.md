@@ -13,6 +13,7 @@ Made in form of an [online GitBook](https://wiki.amureki.me) hosted on [GitHub](
 * Countries
   * [USA](countries/usa.md)
 * Life
+  * [Medicine](life/medicine.md)
   * [Relationship](life/relationship.md)
 * Blockchain
   * [NFT](blockchain/nft.md)
