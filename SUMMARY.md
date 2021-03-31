@@ -22,6 +22,7 @@
 
 ## Life
 
+* [Finance](life/finance.md)
 * [Medicine](life/medicine.md)
 * [Relationship](life/relationship.md)
 

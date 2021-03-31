@@ -15,6 +15,7 @@ Made in form of an [online GitBook](https://wiki.amureki.me) hosted on [GitHub](
 * Countries
   * [USA](countries/usa.md)
 * Life
+  * [Finance](life/finance.md)
   * [Medicine](life/medicine.md)
   * [Relationship](life/relationship.md)
 * Blockchain
