@@ -8,6 +8,7 @@ description: Things that are not directly related to a certain programming langu
 
 * [The IKEA effect](https://stitcher.io/blog/the-ikea-effect)
 * [Semantic Versioning Will Not Save You](https://hynek.me/articles/semver-will-not-save-you/)
+* [Embrace the Grind](https://jacobian.org/2021/apr/7/embrace-the-grind/)
 
 ## Talks
 
