@@ -7,6 +7,7 @@
 ## Articles
 
 * [Concurrency and async/await](https://fastapi.tiangolo.com/async/)
+* [Testing Python Applications with Pytest \[Guide\]](https://stribny.name/blog/pytest/)
 
 ## Talks
 
