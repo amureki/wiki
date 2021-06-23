@@ -9,6 +9,8 @@ description: Things that are not directly related to a certain programming langu
 * [The IKEA effect](https://stitcher.io/blog/the-ikea-effect)
 * [Semantic Versioning Will Not Save You](https://hynek.me/articles/semver-will-not-save-you/)
 * [Embrace the Grind](https://jacobian.org/2021/apr/7/embrace-the-grind/)
+* [Checklist of good engineering practices in companies \[ru\]](https://guides.hexlet.io/check-list-of-engineering-practices/)
+* [Drunk Post: Things I've learned as a Sr Engineer](https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
 
 ## Talks
 
