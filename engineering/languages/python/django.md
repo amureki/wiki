@@ -15,6 +15,7 @@ description: 'https://www.djangoproject.com/'
 * [Improve Serialization Performance in Django Rest Framework](https://hakibenita.com/django-rest-framework-slow)
 * [Avoid Django’s GenericForeignKey](https://lukeplant.me.uk/blog/posts/avoid-django-genericforeignkey/)
 * [Options for public facing IDs in Django](https://spikelantern.com/articles/options-for-public-facing-ids-in-django/)
+* [Full-Text Search in Django with PostgreSQL](https://www.paulox.net/2017/12/22/full-text-search-in-django-with-postgresql/)
 
 
 
