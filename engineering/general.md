@@ -11,6 +11,7 @@ description: Things that are not directly related to a certain programming langu
 * [Embrace the Grind](https://jacobian.org/2021/apr/7/embrace-the-grind/)
 * [Checklist of good engineering practices in companies \[ru\]](https://guides.hexlet.io/check-list-of-engineering-practices/)
 * [Drunk Post: Things I've learned as a Sr Engineer](https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
+* [The Good Day Project—Personal analytics to make your work days better](https://github.blog/2021-05-25-octoverse-spotlight-good-day-project/)
 
 ## Talks
 
