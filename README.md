@@ -20,6 +20,6 @@ Made in form of an [online GitBook](https://wiki.amureki.me) hosted on [GitHub](
   * [Relationship](life/relationship.md)
 * Blockchain
   * [NFT](blockchain/nft.md)
-
-
+* Personal notes
+  * [Travel](notes/travel/)
 
