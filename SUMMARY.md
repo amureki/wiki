@@ -31,3 +31,7 @@
 
 * [NFT](blockchain/nft.md)
 
+## Personal notes <a href="#notes" id="notes"></a>
+
+* [Travel](notes/travel/README.md)
+  * [Tenerife](notes/travel/tenerife.md)
