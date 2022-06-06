@@ -25,6 +25,7 @@
 
 * [Finance](life/finance.md)
 * [Medicine](life/medicine.md)
+* [Memories](life/memories.md)
 * [Relationship](life/relationship.md)
 
 ## Blockchain
