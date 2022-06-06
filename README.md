@@ -17,6 +17,7 @@ Made in form of an [online GitBook](https://wiki.amureki.me) hosted on [GitHub](
 * Life
   * [Finance](life/finance.md)
   * [Medicine](life/medicine.md)
+  * [Memories](life/memories.md)
   * [Relationship](life/relationship.md)
 * Blockchain
   * [NFT](blockchain/nft.md)
