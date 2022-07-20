@@ -12,6 +12,7 @@ description: Things that are not directly related to a certain programming langu
 * [Drunk Post: Things I've learned as a Sr Engineer](https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk\_post\_things\_ive\_learned\_as\_a\_sr\_engineer/)
 * [The Good Day Project—Personal analytics to make your work days better](https://github.blog/2021-05-25-octoverse-spotlight-good-day-project/)
 * [Maybe you should do less 'work'](https://www.johnwhiles.com/posts/work.html)
+* [Soft Deletion Probably Isn't Worth It](https://brandur.org/soft-deletion)
 
 ## Talks
 
