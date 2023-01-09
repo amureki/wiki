@@ -13,6 +13,7 @@ description: Things that are not directly related to a certain programming langu
 * [The Good Day Project—Personal analytics to make your work days better](https://github.blog/2021-05-25-octoverse-spotlight-good-day-project/)
 * [Maybe you should do less 'work'](https://www.johnwhiles.com/posts/work.html)
 * [Soft Deletion Probably Isn't Worth It](https://brandur.org/soft-deletion)
+* [Fast tests for slow services](https://pythonspeed.com/articles/verified-fakes/)
 
 ## Talks
 
